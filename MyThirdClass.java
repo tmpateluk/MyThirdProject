@@ -5,5 +5,6 @@ public class MyThirdClass {
         System.out.println("My third project");
         System.out.println("Testing Techniques");
         System.out.println("SDLC");
+        System.out.println("Git Hub Addition");
     }
 }
